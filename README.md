@@ -38,3 +38,7 @@ cp -R . ~/.agents/skills/qishuai-writing
 
 - 声音档案与金句库（`references/`）是按七帅本人写作样本定制的，换人使用需替换 `voice-profile.md` 与 `golden-lines.md`
 - 短视频口播稿不在本技能范围，走独立的 `short-video-coach`
+
+## 更新日志
+
+- **2026-10-13** 项目发布：四合一写作技能——书稿忠实整理 / 帅哥体风格生成 / 公众号写稿 / 公众号体检，四选项共用「七帅声音档案」横切层（合并原 book、write-book-skill、qishuai-writing-style、spenser-writing 四个技能）。
